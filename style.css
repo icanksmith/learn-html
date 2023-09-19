@@ -1,0 +1,56 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+nav {
+    background-color: #193a70;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#jurusan { 
+    background-color: #196d70;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#kelas {
+    background-color: #36693c;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#alumni {
+    background-color: #656936;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#fasilitas {
+    background-color: #694d36;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#pengajar {
+    background-color: #4f3669;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
